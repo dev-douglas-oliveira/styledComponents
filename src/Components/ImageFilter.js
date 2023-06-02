@@ -4,7 +4,7 @@ import utilidades from "../assets/images/utilidades.svg";
 import saude from "../assets/images/saude.svg";
 import transporte from "../assets/images/transporte.svg";
 import outros from "../assets/images/outros.svg";
-import { IconeTema } from "./UI";
+import { Icone, IconeTemaTema } from "./UI";
 
 export default (type) => {
   const Images = {
